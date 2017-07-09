@@ -2,7 +2,7 @@ package mikelaud.jds;
 
 public class JitpackDemoSecond {
 
-	public static boolean exec() {
+	public boolean exec() {
 		return true;
 	}
 

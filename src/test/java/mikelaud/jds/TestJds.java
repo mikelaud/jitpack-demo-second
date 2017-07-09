@@ -1,4 +1,4 @@
-package mikelaud.jdf;
+package mikelaud.jds;
 
 import static org.junit.Assert.assertTrue;
 
@@ -8,7 +8,7 @@ public class TestJds {
 
 	@Test
 	public void test() {
-		assertTrue(JitpackDemoSecond.exec());
+		assertTrue(new JitpackDemoSecond().exec());
 	}
 	
 }
