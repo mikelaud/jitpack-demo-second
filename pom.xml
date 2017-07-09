@@ -26,8 +26,8 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.github.User</groupId>
-			<artifactId>Repo</artifactId>
+			<groupId>com.github.mikelaud</groupId>
+			<artifactId>jitpack-demo-first</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
