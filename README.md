@@ -5,3 +5,25 @@
 **Links:**
 - https://github.com/mikelaud/jitpack-demo-first
 - https://github.com/mikelaud/jitpack-demo-second
+
+**Maven:**
+```XML
+<project ...>
+
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.github.mikelaud</groupId>
+			<artifactId>jitpack-demo-second</artifactId>
+			<version>4.0.0</version>
+		</dependency>
+	</dependencies>
+
+</project>
+```
